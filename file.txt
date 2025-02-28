@@ -6,4 +6,5 @@ int main()
     scanf("Enter your name:", name);
     printf("How are you doing?", name);
     printf("Goodbye!");
+    return;
 }
